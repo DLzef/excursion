@@ -1,14 +1,31 @@
+/* Werte Vorgegeben / Values were given(predetermined)*/
+
+
 body {
     background-color: #000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* Headings/ Ueberschriften */
+
 .header--main {
     color: white;
     font-weight: normal;
     font-size: 50px;
-
 }
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white; 
+}
+
+.header--subheader {
+    font-size: 21px;
+    color: gray;
+}
+
+/* Links */
 
 .link--header {
     font-size: 16px;
